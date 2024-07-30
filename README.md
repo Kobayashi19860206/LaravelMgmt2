@@ -1,6 +1,6 @@
 # Project Management System
 
-This project was built to help project managers handle multiple projects at once. The application implemented Scrum methodology and used Machine Learning to calculate time required to complete a task. This project needs [Time Estimator API](https://github.com/wisuja/flask-time-estimator-api) to run also.
+This project was built to help project managers handle multiple projects at once. The application implemented Scrum methodology and used Machine Learning to calculate time required to complete a task. This project needs [Time Estimator API](https://github.com/Kobayashi19860206/flask-time-estimator-api) to run also.
 <br>
 
 The application was built using Laravel 8 and JQuery. This application also requires [Algolia](https://algolia.com) library to work.
@@ -18,7 +18,7 @@ The application was built using Laravel 8 and JQuery. This application also requ
 9. Lastly, serve the application with this `php artisan serve` command.
 10. The Project Management System application should accessible on your browser on "http://localhost:8000"
 
-### Time Estimator API Server repository: [Click here](https://github.com/wisuja/flask-time-estimator-api)
+### Time Estimator API Server repository: [Click here](https://github.com/Kobayashi19860206/flask-time-estimator-api)
 
 ## Key Features
 
